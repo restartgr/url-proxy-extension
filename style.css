@@ -1,0 +1,40 @@
+.title{
+    font-size: 20px;
+    font-weight: bold;
+}
+.container{
+    width: 350px;
+    padding: 20px;
+}
+.subtitle{
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 16px;
+}
+.action{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+input {
+    flex: 1;
+}
+
+.options-title{
+    color: white;
+}
+.options-content{
+    padding: 24px;
+    height: 100%;
+    background: white;
+    flex: 1;
+}
+.options-layout{
+    padding: 0 50px;
+    display: flex;
+    flex-direction: column;
+}
+.options-content-button{
+    margin-bottom: 20px;
+}
